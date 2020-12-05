@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bossbusserverless",
+  "private_key_id": "65d114144b065ffeb72fdc3248a2a1f05486aa63",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDaxHJYB/5KB9Ey\nBs0kF5e5oGlbfOg6Y3Y4c/9igMrT5RwDnDJNxLPHfp0kRfEr69x86llk5/OcBeDO\nL6wGw3bnK1FDf9+IM0UqswbT6oQoG5yKRWdpYZLi2i/8f5Uofarb9SWnYtVxiCNj\nvcCkb6bOnF9JQqrPRYUpihFn/JWBXRAkse/eS0+PS9jNwdsHx34VgWq20zVVSSAW\nx0OvFGLeYmhZhlHSUlE7Ga04zClPaRnvm7BlZlGTwMLqPg275yYkX+O1+EcbuCy+\nsMxdUR2xtWjci7mq7t3ylsboucakURThAuWodQSNW6aqyF9fHGqmz/R+ghlzh9Y6\n4tZBRXarAgMBAAECggEALTSz5iH8t4KHBX3nTSJ87VRLASc9+7bK2p6JsuqnPwMU\nd2CC+pP/jGVLBpBXZjqObNemUlYl/mMukZzDQQCKJPnMCJU3dTcW/1xQOGE5HuqZ\nve7akCmkBzGMAfLBOUVClcJCHiUrsxKtMXKoCLKztvUUMZjPoBYfDrbjoufMYxcc\naC5w/J3sj/OBp/HHaNMFN6JF5HY/GHQVAXWIhMjNxrjqgbp0kATrERiNSkacm3zP\nxk5CGSIMm6NpyRUCmaxGVjcOpT9jt/Wuc/FJo+Us2Fp38aI2Jj+6e28zGZ/YY3b9\n/OqlT2F/7XUlFx6L3X6UwxOTHEsF+WUgw6kMrfDIkQKBgQD+6LXj/rnpQegmwy1j\nDL1sO2WR8800THNSTs/w7qIH18GCF77uyY1ExY89q0QkL0XHU4/tDI740Q742GHB\nNfju9pogHY70jUUNlvxi4ucL/xOivd+0rj0W3e6M8AhbPwiBcE2nXX/Das1iswyz\nx3c1ru8de4umDSWvaWpbad7nEQKBgQDbtCNEkre5FTduVuw7D/KoMpsAE5jHYA1m\nT/KFrlwFHmCHYyJ8je0OYxRNACd942vvcwPwWUhbQJJ6Kjsf6FW2Nc75AFUdhpGf\nwyvv3mrGAgBojiSGDRhyiCw1rwb+xUIyaRs0StkjoKPv+YRSPpLDAX5n9M+ZYOZD\nzR3tByRZ+wKBgGQl4XBV34y5DBBOlkJX+wPOwjT5aCGn95bax++MkbQrHCeUVLtU\nDGB8ja5Y30ioGe4Z8m3bhUBUQmGaAa37GnYoBJ2hf0ytQ/f23emr48Je0MQbfQxr\neCzHvLU6iM3wkdLo4Flk7pFEILUqS09GiptYwzD+HPt8JtYnwFVx3tVBAoGBAJW4\nQ5R2e3dIixbJa4CwVIfkvJYnxKSRw2/mqXoKITFnyxZYK2c//L0iLfJvWXpDogly\nksuWvGVbMrbH0rTiyo46SwqK/HX7f3+lLGrxYkf/kzGtNByaDf/25lHLLfQujvb1\ng5F2NFVAIpflrROzCqaTfQXw4gw+6Yxo2qztggtDAoGBANC9AYA9Fd0EE3yNTQop\nn2ypA3f56C91GYZx7UYljx6ywZqyVWTIrTKM3GChlJK8LTb3x4/zpyGuGG8tp7ub\nIfzjqdRp3UTDarLLn2T0V/55msuOjDuho5lrGdU1XTrIjiTZJ0fa/Kd+ZGVELzSq\nhtB9j/93iBPaMk31IFs63X5M\n-----END PRIVATE KEY-----\n",
+  "client_email": "crud-859@bossbusserverless.iam.gserviceaccount.com",
+  "client_id": "115381569602935109924",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/crud-859%40bossbusserverless.iam.gserviceaccount.com"
+}

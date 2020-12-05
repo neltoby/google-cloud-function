@@ -1,0 +1,32 @@
+{
+  "name": "bossbus",
+  "version": "1.0.0",
+  "description": "a google cloud function for crud operation with authentication",
+  "main": "index.js",
+  "scripts": {
+    "start": "functions-framework --target=crud",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/neltoby"
+  },
+  "keywords": [
+    "serverless",
+    "google",
+    "gcp_function",
+    "nodeJs",
+    "javascript"
+  ],
+  "author": "neltoby",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/firestore": "^4.7.2",
+    "@google-cloud/functions-framework": "^1.7.1",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
